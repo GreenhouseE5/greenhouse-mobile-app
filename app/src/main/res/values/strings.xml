@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Greenhouse</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="titleList">Green Houses</string>
+    <string name="image">Image</string>
+    <string name="name">Name</string>
+    <string name="details">Details</string>
+    <string name="description">Description Lorem ipsum dolor site</string>
+</resources>
