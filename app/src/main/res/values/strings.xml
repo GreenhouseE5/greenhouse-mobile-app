@@ -6,6 +6,9 @@
     <string name="titleList">Green Houses</string>
     <string name="image">Image</string>
     <string name="name">Name</string>
-    <string name="details">Details</string>
-    <string name="description">Description Lorem ipsum dolor site</string>
+    <string name="details.greenhouse">Invernadero</string>
+    <string name="details.logs">Registros</string>
+    <string name="details.temperature">Temperatura:</string>
+    <string name="details.humidity">Humedad:</string>
+    <string name="api.url">http://localhost:5000/api</string>
 </resources>
